@@ -112,23 +112,15 @@ button {
     .cont {
         width: 80%;
     }
-    
-    .random {
-        flex-direction: column;
-        gap: 20px;
-    }
 
-    .container {
+    .container div{
         height: 150px;
-        font-size: 17px;
-        flex-direction: column;
+        
         
     }
-    .section {
-        padding: 20px;
-    }
-    button {
-        font-size: 15px;
+    .container {
+        flex-direction: column;
+        gap: 20px;
     }
 }
 
