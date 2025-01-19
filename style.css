@@ -105,6 +105,14 @@ button {
 }
 
 
+.g {
+    width: 30%; 
+    height: 100%; 
+    padding: 20px; 
+    border-radius: 30px; 
+    border: 1px #000 solid;
+}
+
 @media (width<1000px) {
     * {
         max-width: 90vw;
