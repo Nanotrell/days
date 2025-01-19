@@ -114,6 +114,9 @@ button {
 }
 
 @media (width<1000px) {
+    body {
+        overflow: visible;
+    }
     * {
         max-width: 90vw;
     }
